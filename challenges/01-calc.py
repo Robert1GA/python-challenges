@@ -3,6 +3,7 @@
 # to enter a number you have to use the `int()` function to convert
 # what they typed in to a string.
 
+#### Can also try this with FLOAT instead of INT
 
 def calc_numbers():
     calc_operation = input('What calculation would you like to do? (add, sub, mult, div)?')
